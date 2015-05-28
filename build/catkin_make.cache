@@ -1,0 +1,2 @@
+agitr
+-DCATKIN_DEVEL_PREFIX=/disk/geffer/lclhome/mnovo006/Desktop/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/disk/geffer/lclhome/mnovo006/Desktop/catkin_ws/install -G Unix Makefiles
